@@ -1,1 +1,1 @@
-# python-project
+# sample_django_project
